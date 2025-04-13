@@ -1,2 +1,0 @@
-# MADSCAN
-Multiple Disease Detection
